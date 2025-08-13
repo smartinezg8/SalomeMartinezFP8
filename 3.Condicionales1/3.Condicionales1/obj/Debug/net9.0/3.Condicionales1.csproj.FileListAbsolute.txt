@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\bin\Debug\net9.0\3.Condicionales1.exe
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\bin\Debug\net9.0\3.Condicionales1.deps.json
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\bin\Debug\net9.0\3.Condicionales1.runtimeconfig.json
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\bin\Debug\net9.0\3.Condicionales1.dll
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\bin\Debug\net9.0\3.Condicionales1.pdb
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.dll
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\refint\3.Condicionales1.dll
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.pdb
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\3.Condicionales1.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Salomé Martínez\3.Condicionales1\3.Condicionales1\obj\Debug\net9.0\ref\3.Condicionales1.dll
