@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\bin\Debug\net8.0\1.InicioVisualStudio.exe
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\bin\Debug\net8.0\1.InicioVisualStudio.deps.json
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\bin\Debug\net8.0\1.InicioVisualStudio.runtimeconfig.json
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\bin\Debug\net8.0\1.InicioVisualStudio.dll
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\bin\Debug\net8.0\1.InicioVisualStudio.pdb
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.AssemblyInfo.cs
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.sourcelink.json
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.dll
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\refint\1.InicioVisualStudio.dll
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.pdb
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\1.InicioVisualStudio.genruntimeconfig.cache
+C:\Users\B09S113est\Documents\SalomeMartinez\SalomeMartinezFP8\1.InicioVisualStudio\1.InicioVisualStudio\obj\Debug\net8.0\ref\1.InicioVisualStudio.dll
