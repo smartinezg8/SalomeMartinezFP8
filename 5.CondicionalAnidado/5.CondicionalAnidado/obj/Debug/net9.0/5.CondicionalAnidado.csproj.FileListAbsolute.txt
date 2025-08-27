@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net9.0\5.CondicionalAnidado.exe
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net9.0\5.CondicionalAnidado.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net9.0\5.CondicionalAnidado.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net9.0\5.CondicionalAnidado.dll
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net9.0\5.CondicionalAnidado.pdb
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.dll
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\refint\5.CondicionalAnidado.dll
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.pdb
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\5.CondicionalAnidado.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net9.0\ref\5.CondicionalAnidado.dll
