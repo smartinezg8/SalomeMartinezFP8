@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ParcialCondicionalesSalomeMartinez/1.0.0": {
+        "runtime": {
+          "ParcialCondicionalesSalomeMartinez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialCondicionalesSalomeMartinez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
