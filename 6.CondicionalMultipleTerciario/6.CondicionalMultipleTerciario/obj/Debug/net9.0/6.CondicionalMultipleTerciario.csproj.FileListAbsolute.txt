@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net9.0\6.CondicionalMultipleTerciario.exe
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net9.0\6.CondicionalMultipleTerciario.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net9.0\6.CondicionalMultipleTerciario.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net9.0\6.CondicionalMultipleTerciario.dll
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net9.0\6.CondicionalMultipleTerciario.pdb
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.dll
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\refint\6.CondicionalMultipleTerciario.dll
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.pdb
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\6.CondicionalMultipleTerciario.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net9.0\ref\6.CondicionalMultipleTerciario.dll
