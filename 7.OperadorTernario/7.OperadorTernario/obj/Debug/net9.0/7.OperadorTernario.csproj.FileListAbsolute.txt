@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\bin\Debug\net9.0\7.OperadorTernario.exe
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\bin\Debug\net9.0\7.OperadorTernario.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\bin\Debug\net9.0\7.OperadorTernario.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\bin\Debug\net9.0\7.OperadorTernario.dll
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\bin\Debug\net9.0\7.OperadorTernario.pdb
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.dll
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\refint\7.OperadorTernario.dll
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.pdb
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\7.OperadorTernario.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\7.OperadorTernario\7.OperadorTernario\obj\Debug\net9.0\ref\7.OperadorTernario.dll
