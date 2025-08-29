@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\bin\Debug\net9.0\10.While2.exe
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\bin\Debug\net9.0\10.While2.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\bin\Debug\net9.0\10.While2.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\bin\Debug\net9.0\10.While2.dll
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\bin\Debug\net9.0\10.While2.pdb
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.dll
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\refint\10.While2.dll
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.pdb
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\10.While2.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\10.While2\10.While2\obj\Debug\net9.0\ref\10.While2.dll
