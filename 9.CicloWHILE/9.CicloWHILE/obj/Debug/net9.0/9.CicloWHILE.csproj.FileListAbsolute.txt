@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\bin\Debug\net9.0\9.CicloWHILE.exe
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\bin\Debug\net9.0\9.CicloWHILE.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\bin\Debug\net9.0\9.CicloWHILE.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\bin\Debug\net9.0\9.CicloWHILE.dll
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\bin\Debug\net9.0\9.CicloWHILE.pdb
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.dll
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\refint\9.CicloWHILE.dll
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.pdb
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\9.CicloWHILE.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\9.CicloWHILE\9.CicloWHILE\obj\Debug\net9.0\ref\9.CicloWHILE.dll
