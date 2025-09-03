@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\bin\Debug\net9.0\16.While8.exe
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\bin\Debug\net9.0\16.While8.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\bin\Debug\net9.0\16.While8.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\bin\Debug\net9.0\16.While8.dll
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\bin\Debug\net9.0\16.While8.pdb
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.dll
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\refint\16.While8.dll
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.pdb
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\16.While8.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\16.While8\16.While8\obj\Debug\net9.0\ref\16.While8.dll
