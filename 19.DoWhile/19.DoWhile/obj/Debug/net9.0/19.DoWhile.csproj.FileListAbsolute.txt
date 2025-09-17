@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\bin\Debug\net9.0\19.DoWhile.exe
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\bin\Debug\net9.0\19.DoWhile.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\bin\Debug\net9.0\19.DoWhile.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\bin\Debug\net9.0\19.DoWhile.dll
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\bin\Debug\net9.0\19.DoWhile.pdb
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.dll
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\refint\19.DoWhile.dll
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.pdb
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\19.DoWhile.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\19.DoWhile\19.DoWhile\obj\Debug\net9.0\ref\19.DoWhile.dll
