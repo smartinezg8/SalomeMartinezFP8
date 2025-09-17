@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\bin\Debug\net9.0\21.For.exe
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\bin\Debug\net9.0\21.For.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\bin\Debug\net9.0\21.For.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\bin\Debug\net9.0\21.For.dll
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\bin\Debug\net9.0\21.For.pdb
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.dll
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\refint\21.For.dll
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.pdb
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\21.For.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\21.For\21.For\obj\Debug\net9.0\ref\21.For.dll
