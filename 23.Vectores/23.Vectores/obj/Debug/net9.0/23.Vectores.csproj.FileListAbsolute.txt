@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\bin\Debug\net9.0\23.Vectores.exe
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\bin\Debug\net9.0\23.Vectores.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\bin\Debug\net9.0\23.Vectores.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\bin\Debug\net9.0\23.Vectores.dll
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\bin\Debug\net9.0\23.Vectores.pdb
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.dll
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\refint\23.Vectores.dll
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.pdb
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\23.Vectores.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\23.Vectores\23.Vectores\obj\Debug\net9.0\ref\23.Vectores.dll
