@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\bin\Debug\net9.0\ParcialCiclosSalomeMartinezG.exe
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\bin\Debug\net9.0\ParcialCiclosSalomeMartinezG.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\bin\Debug\net9.0\ParcialCiclosSalomeMartinezG.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\bin\Debug\net9.0\ParcialCiclosSalomeMartinezG.dll
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\bin\Debug\net9.0\ParcialCiclosSalomeMartinezG.pdb
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.dll
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\refint\ParcialCiclosSalomeMartinezG.dll
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.pdb
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ParcialCiclosSalomeMartinezG.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\ParcialCiclosSalomeMartinezG\ParcialCiclosSalomeMartinezG\obj\Debug\net9.0\ref\ParcialCiclosSalomeMartinezG.dll
