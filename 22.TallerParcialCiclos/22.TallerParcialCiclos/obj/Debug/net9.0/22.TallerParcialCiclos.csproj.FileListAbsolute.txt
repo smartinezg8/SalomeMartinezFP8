@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\bin\Debug\net9.0\22.TallerParcialCiclos.exe
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\bin\Debug\net9.0\22.TallerParcialCiclos.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\bin\Debug\net9.0\22.TallerParcialCiclos.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\bin\Debug\net9.0\22.TallerParcialCiclos.dll
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\bin\Debug\net9.0\22.TallerParcialCiclos.pdb
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.dll
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\refint\22.TallerParcialCiclos.dll
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.pdb
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\22.TallerParcialCiclos.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\22.TallerParcialCiclos\22.TallerParcialCiclos\obj\Debug\net9.0\ref\22.TallerParcialCiclos.dll
