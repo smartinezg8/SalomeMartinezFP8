@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\bin\Debug\net9.0\30.ProgramaciónModular.exe
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\bin\Debug\net9.0\30.ProgramaciónModular.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\bin\Debug\net9.0\30.ProgramaciónModular.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\bin\Debug\net9.0\30.ProgramaciónModular.dll
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\bin\Debug\net9.0\30.ProgramaciónModular.pdb
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.dll
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\refint\30.ProgramaciónModular.dll
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.pdb
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\30.ProgramaciónModular.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\30.ProgramaciónModular\30.ProgramaciónModular\obj\Debug\net9.0\ref\30.ProgramaciónModular.dll
