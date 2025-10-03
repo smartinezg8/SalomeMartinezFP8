@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.exe
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.dll
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.pdb
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.dll
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\refint\28.Matrices.dll
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.pdb
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\28.Matrices\28.Matrices\obj\Debug\net9.0\ref\28.Matrices.dll
