@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\bin\Debug\net9.0\ParcialArreglosSalomeMartinez.exe
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\bin\Debug\net9.0\ParcialArreglosSalomeMartinez.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\bin\Debug\net9.0\ParcialArreglosSalomeMartinez.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\bin\Debug\net9.0\ParcialArreglosSalomeMartinez.dll
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\bin\Debug\net9.0\ParcialArreglosSalomeMartinez.pdb
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.dll
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\refint\ParcialArreglosSalomeMartinez.dll
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.pdb
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ParcialArreglosSalomeMartinez.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\ParcialArreglosSalomeMartinez\ParcialArreglosSalomeMartinez\obj\Debug\net9.0\ref\ParcialArreglosSalomeMartinez.dll
