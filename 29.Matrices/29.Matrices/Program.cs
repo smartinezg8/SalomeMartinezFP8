@@ -95,6 +95,32 @@
             * Usa la función Random para generar los números aleatorios. 
             * Crea un arreglo adicional para almacenar la frecuencia de cada número. 
             * Mostrar la matriz y el nuevo arreglo con la frecuencia de cada número */
+            /*int[,] numeros = new int[5, 5];
+            int[] frecuencia = new int[10];
+            Random random1 = new Random();
+            
+            for (int i = 0; i < numeros.GetLength(0); i++)
+            {
+                for (int j = 0; j < numeros.GetLength(1); j++)
+                {
+                    Console.WriteLine($"Ingrese el valor para la posición {i},{j}");
+                    numeros[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            for (int i = 0; i < numeros.GetLength(0); i++)
+            {
+                for (int j = 0; j < numeros.GetLength(1); j++)
+                {
+                    frecuencia[numeros[i, j] - 1]++;
+                }
+            }
+            Console.WriteLine();
+            
+            for (int i = 0; i < frecuencia.Length; i++)
+            {
+                Console.WriteLine($"El número {i + 1} se repite {frecuencia[i]} veces");
+            }
+            Console.WriteLine();*/
 
             /*4. Crea un algoritmo que represente un tablero de juego de 5x5 donde se coloquen 3 "X" en 
             posiciones aleatorias. Luego, el algoritmo le debe permitir al usuario intentar adivinar la 
@@ -289,3 +315,4 @@
         }
     }
 }
+
