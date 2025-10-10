@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\bin\Debug\net9.0\26.TallerVectores.exe
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\bin\Debug\net9.0\26.TallerVectores.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\bin\Debug\net9.0\26.TallerVectores.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\bin\Debug\net9.0\26.TallerVectores.dll
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\bin\Debug\net9.0\26.TallerVectores.pdb
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.dll
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\refint\26.TallerVectores.dll
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.pdb
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\26.TallerVectores.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\26.TallerVectores\26.TallerVectores\obj\Debug\net9.0\ref\26.TallerVectores.dll
