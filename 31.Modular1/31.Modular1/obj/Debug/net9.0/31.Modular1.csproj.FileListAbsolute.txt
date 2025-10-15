@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\bin\Debug\net9.0\31.Modular1.exe
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\bin\Debug\net9.0\31.Modular1.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\bin\Debug\net9.0\31.Modular1.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\bin\Debug\net9.0\31.Modular1.dll
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\bin\Debug\net9.0\31.Modular1.pdb
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.dll
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\refint\31.Modular1.dll
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.pdb
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\31.Modular1.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\31.Modular1\31.Modular1\obj\Debug\net9.0\ref\31.Modular1.dll
