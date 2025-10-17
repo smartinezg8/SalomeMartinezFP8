@@ -1,0 +1,14 @@
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\bin\Debug\net9.0\TallerProgramacionModular.exe
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\bin\Debug\net9.0\TallerProgramacionModular.deps.json
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\bin\Debug\net9.0\TallerProgramacionModular.runtimeconfig.json
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\bin\Debug\net9.0\TallerProgramacionModular.dll
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\bin\Debug\net9.0\TallerProgramacionModular.pdb
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.AssemblyInfoInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.AssemblyInfo.cs
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.dll
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\refint\TallerProgramacionModular.dll
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.pdb
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\TallerProgramacionModular.genruntimeconfig.cache
+C:\Users\Salome\Documents\Salomé Martínez\TallerProgramacionModular\TallerProgramacionModular\obj\Debug\net9.0\ref\TallerProgramacionModular.dll
