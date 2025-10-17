@@ -1,0 +1,14 @@
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\bin\Debug\net9.0\32.ProgramacionModular.exe
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\bin\Debug\net9.0\32.ProgramacionModular.deps.json
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\bin\Debug\net9.0\32.ProgramacionModular.runtimeconfig.json
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\bin\Debug\net9.0\32.ProgramacionModular.dll
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\bin\Debug\net9.0\32.ProgramacionModular.pdb
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.AssemblyInfoInputs.cache
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.AssemblyInfo.cs
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.dll
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\refint\32.ProgramacionModular.dll
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.pdb
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\32.ProgramacionModular.genruntimeconfig.cache
+C:\Users\Salome\Downloads\32.ProgramacionModular\32.ProgramacionModular\obj\Debug\net9.0\ref\32.ProgramacionModular.dll
